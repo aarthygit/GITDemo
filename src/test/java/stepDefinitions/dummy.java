@@ -20,5 +20,11 @@ public class dummy {
 		System.out.println("postjira");
 		System.out.println("postjira");
 	}
+	
+	
+	public void postJira2() {
+		System.out.println("postjira");
+		System.out.println("postjira");
+	}
 
 }
